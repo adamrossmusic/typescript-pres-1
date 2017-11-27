@@ -1,0 +1,19 @@
+{
+  "name": "typescript-pres1",
+  "version": "1.0.0",
+  "description": "Black Swan Hungary Typescript Presentation1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ádám Ferenczi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.6.39",
+    "@types/jquery": "^3.2.16",
+    "angular": "^1.6.6",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "typescript": "^2.6.1"
+  }
+}
