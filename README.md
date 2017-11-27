@@ -5,7 +5,9 @@ Prerequisites:
 Node + NPM installed
 
 npm install –g typescript
+
 tsc –v // check version
+
 npm install // Will install type definitions for angularjs & jquery
 
 run tsc to compile all files
